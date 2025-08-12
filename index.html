@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buscador Jurídico MPF</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Buscador Jurídico Inteligente MPF</h1>
+      <button id="toggle-mode">🌙 Modo Oscuro</button>
+    </header>
+
+    <p>Ingresá una palabra clave y obtené links oficiales:</p>
+
+    <div class="filters">
+      <select id="category-filter">
+        <option value="Todas">Todas</option>
+      </select>
+
+      <input type="text" id="search-input" placeholder="Ej.: Ley 27.148" />
+    </div>
+
+    <div class="buttons">
+      <button id="search-btn">Buscar</button>
+      <button id="clear-btn">Limpiar</button>
+    </div>
+
+    <div id="messages"></div>
+
+    <div id="result-buttons" class="hidden">
+      <button id="mpf-btn">Buscar en MPF</button>
+      <button id="infoleg-btn">Buscar en Infoleg</button>
+      <button id="cij-btn">Buscar en CIJ</button>
+      <button id="bo-btn">Buscar en Boletín Oficial</button>
+    </div>
+
+    <h2>Búsquedas recientes:</h2>
+    <div id="history"></div>
+    <button id="clear-history-btn" class="delete-btn">Borrar Historial</button>
+
+    <div class="autocomplete-container hidden" id="autocomplete-list"></div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,964 @@
+[
+  {
+    "category": "Penal",
+    "items": [
+      { "name": "Ley 23.737 — Estupefacientes" },
+      { "name": "Ley 26.364 — Trata de Personas" },
+      { "name": "Ley 26.791 — Femicidio" },
+      { "name": "Ley 27.742 — Ley Olimpia (Ciberacoso)" },
+      { "name": "Ley 24.660 — Ejecución de la Pena" },
+      { "name": "Ley 25.241 — Delitos Informáticos" },
+      { "name": "Ley 26.388 — Grooming" },
+      { "name": "Ley 26.485 — Violencia de Género" },
+      { "name": "Ley 27.455 — Agravantes Robo Armado" },
+      { "name": "Ley 27.372 — Derechos y Garantías de las Víctimas" },
+      { "name": "Ley 23.984 — Código Procesal Penal de la Nación" },
+      { "name": "Ley 27.147 — Ley del Ministerio Público Fiscal" },
+      { "name": "Ley 27.063 — Juicio por Jurados" },
+      { "name": "Ley 26.052 — Narcomenudeo" },
+      { "name": "Ley 27.433 — Prevención de Violencia en el Deporte" },
+      { "name": "Ley 24.410 — Extradición Internacional" }
+    ]
+  },
+  {
+    "category": "Civil y Comercial",
+    "items": [
+      { "name": "Código Civil y Comercial de la Nación" },
+      { "name": "Ley 24.240 — Defensa del Consumidor" },
+      { "name": "Ley 26.994 — Unificación Código Civil y Comercial" },
+      { "name": "Ley 13.512 — Propiedad Horizontal" },
+      { "name": "Ley 25.248 — Leasing" },
+      { "name": "Ley 24.441 — Garantías Reales" },
+      { "name": "Ley 24.432 — Intereses en Ejecuciones" },
+      { "name": "Ley 23.928 — Convertibilidad y Obligaciones de Dar Sum" },
+      { "name": "Ley 24.522 — Concursos y Quiebras" },
+      { "name": "Ley 26.994 — Nuevo Código Civil y Comercial" },
+      { "name": "Ley 25.065 — Tarjetas de Crédito" },
+      { "name": "Ley 24.573 — Mediación y Conciliación" }
+    ]
+  },
+  {
+    "category": "Laboral",
+    "items": [
+      { "name": "Ley 20.744 — Contrato de Trabajo" },
+      { "name": "Ley 24.013 — Empleo" },
+      { "name": "Ley 24.557 — Riesgos del Trabajo" },
+      { "name": "Ley 23.551 — Asociaciones Sindicales" },
+      { "name": "Ley 25.323 — Indemnizaciones Laborales" },
+      { "name": "Ley 25.345 — Blanqueo Laboral" },
+      { "name": "Ley 25.877 — Reforma Laboral" },
+      { "name": "Ley 26.341 — Trabajo Agrario" }
+    ]
+  },
+  {
+    "category": "Procesal",
+    "items": [
+      { "name": "Código Procesal Penal de la Nación" },
+      { "name": "Ley 27.148 — Ministerio Público Fiscal" },
+      { "name": "Ley 23.984 — Código Procesal Civil y Comercial" },
+      { "name": "Ley 24.050 — Juicio de Desalojo" },
+      { "name": "Ley 25.488 — Notificaciones Electrónicas" },
+      { "name": "Ley 24.573 — Mediación y Conciliación" },
+      { "name": "Ley 24.767 — Exhortos y Cooperación Internacional" }
+    ]
+  },
+  {
+    "category": "Constitucional",
+    "items": [
+      { "name": "Constitución Nacional" },
+      { "name": "Ley 24.309 — Reforma Constitucional 1994" },
+      { "name": "Ley 25.432 — Habeas Data" },
+      { "name": "Ley 26.944 — Responsabilidad del Estado" },
+      { "name": "Ley 26.854 — Medidas Cautelares contra el Estado" }
+    ]
+  },
+  {
+    "category": "Ambiental",
+    "items": [
+      { "name": "Ley 25.675 — Política Ambiental Nacional" },
+      { "name": "Ley 26.331 — Presupuestos Mínimos de Bosques Nativos" },
+      { "name": "Ley 26.562 — Quema de Pastizales" },
+      { "name": "Ley 25.688 — Régimen de Agua Potable" },
+      { "name": "Ley 27.279 — Presupuestos Mínimos para Residuos" },
+      { "name": "Ley 26.639 — Glaciares" }
+    ]
+  },
+  {
+    "category": "Familia",
+    "items": [
+      { "name": "Ley 26.061 — Protección Integral de Niños, Niñas y Adolescentes" },
+      { "name": "Ley 26.618 — Matrimonio Igualitario" },
+      { "name": "Ley 27.610 — Interrupción Voluntaria del Embarazo" },
+      { "name": "Ley 26.994 — Código Civil y Comercial (familia y sucesiones)" },
+      { "name": "Ley 24.270 — Protección a Víctimas de Violencia Familiar" },
+      { "name": "Ley 26.485 — Violencia contra la Mujer" }
+    ]
+  },
+  {
+    "category": "Administrativo",
+    "items": [
+      { "name": "Ley 19.549 — Procedimientos Administrativos" },
+      { "name": "Ley 24.156 — Administración Financiera" },
+      { "name": "Ley 25.344 — Emergencia Económica y Reestructuración de Deuda" },
+      { "name": "Ley 25.917 — Responsabilidad Fiscal" },
+      { "name": "Ley 27.275 — Acceso a la Información Pública" },
+      { "name": "Ley 26.944 — Responsabilidad del Estado" }
+    ]
+  },
+  {
+    "category": "Derechos Humanos",
+    "items": [
+      { "name": "Ley 24.632 — Convención sobre Derechos del Niño" },
+      { "name": "Ley 25.778 — Jerarquía Constitucional de la Convención Americana sobre DDHH" },
+      { "name": "Ley 26.827 — Sistema Nacional de Prevención de la Tortura" },
+      { "name": "Ley 27.501 — Derechos de las Personas Mayores" },
+      { "name": "Ley 26.743 — Identidad de Género" },
+      { "name": "Ley 26.378 — Convención sobre Derechos de las Personas con Discapacidad" }
+    ]
+  }
+  ,
+  {
+    "category": "Comercial",
+    "items": [
+      { "name": "Ley 19.550 — Sociedades Comerciales" },
+      { "name": "Ley 24.522 — Concursos y Quiebras" },
+      { "name": "Ley 26.994 — Código Civil y Comercial (actos de comercio)" },
+      { "name": "Ley 24.441 — Leasing" },
+      { "name": "Ley 26.831 — Mercado de Capitales" },
+      { "name": "Ley 11.867 — Marcas y Designaciones" },
+      { "name": "Ley 22.362 — Marcas" }
+    ]
+  },
+  {
+    "category": "Tributario",
+    "items": [
+      { "name": "Ley 11.683 — Procedimiento Fiscal" },
+      { "name": "Ley 24.241 — Impuesto a las Ganancias" },
+      { "name": "Ley 23.349 — IVA" },
+      { "name": "Ley 27.430 — Reforma Tributaria" },
+      { "name": "Ley 26.063 — Moratoria Impositiva" },
+      { "name": "Ley 23.905 — Impuesto sobre Bienes Personales" }
+    ]
+  },
+  {
+    "category": "Seguridad Social",
+    "items": [
+      { "name": "Ley 24.241 — Sistema Integrado de Jubilaciones y Pensiones" },
+      { "name": "Ley 26.425 — Reestatización de AFJP" },
+      { "name": "Ley 24.013 — Régimen de Empleo" },
+      { "name": "Ley 24.714 — Asignaciones Familiares" },
+      { "name": "Ley 26.970 — Moratoria Previsional" },
+      { "name": "Ley 26.844 — Régimen del Personal de Casas Particulares" }
+    ]
+  },
+  {
+    "category": "Educación",
+    "items": [
+      { "name": "Ley 26.206 — Ley de Educación Nacional" },
+      { "name": "Ley 26.150 — Educación Sexual Integral" },
+      { "name": "Ley 26.058 — Educación Técnico Profesional" },
+      { "name": "Ley 27.045 — Prevención del Bullying" },
+      { "name": "Ley 26.892 — Convivencia Escolar" }
+    ]
+  },
+  {
+    "category": "Salud",
+    "items": [
+      { "name": "Ley 26.529 — Derechos del Paciente" },
+      { "name": "Ley 23.798 — SIDA" },
+      { "name": "Ley 26.743 — Identidad de Género (salud)" },
+      { "name": "Ley 27.130 — Prevención del Suicidio" },
+      { "name": "Ley 26.657 — Salud Mental" },
+      { "name": "Ley 27.610 — Interrupción Voluntaria del Embarazo" }
+    ]
+  },
+  {
+    "category": "Tecnología y Datos",
+    "items": [
+      { "name": "Ley 25.326 — Protección de Datos Personales" },
+      { "name": "Ley 26.388 — Delitos Informáticos" },
+      { "name": "Ley 26.951 — Firma Digital" },
+      { "name": "Ley 27.078 — Argentina Digital" },
+      { "name": "Ley 27.275 — Acceso a la Información Pública" },
+      { "name": "Ley 27.442 — Defensa de la Competencia (plataformas digitales)" }
+    ]
+  },
+  {
+    "category": "Electoral",
+    "items": [
+      { "name": "Ley 19.945 — Código Electoral Nacional" },
+      { "name": "Ley 26.215 — Financiamiento de Partidos Políticos" },
+      { "name": "Ley 27.412 — Paridad de Género en Listas Electorales" },
+      { "name": "Ley 25.600 — Boleta Única Electrónica" }
+    ]
+  },
+  {
+    "category": "Aduanero",
+    "items": [
+      { "name": "Ley 22.415 — Código Aduanero" },
+      { "name": "Ley 25.603 — Contrabando" },
+      { "name": "Ley 24.425 — Acuerdo de la OMC" },
+      { "name": "Ley 27.275 — Control de Exportaciones" }
+    ]
+  },
+  {
+    "category": "Energía",
+    "items": [
+      { "name": "Ley 17.319 — Hidrocarburos" },
+      { "name": "Ley 26.190 — Energías Renovables" },
+      { "name": "Ley 27.424 — Generación Distribuida" },
+      { "name": "Ley 24.065 — Energía Eléctrica" }
+    ]
+  },
+  {
+    "category": "Minería",
+    "items": [
+      { "name": "Código de Minería" },
+      { "name": "Ley 24.196 — Inversiones Mineras" },
+      { "name": "Ley 24.585 — Procedimiento Ambiental Minero" },
+      { "name": "Ley 25.161 — Regalías Mineras" }
+    ]
+  },
+  {
+    "category": "Protección Animal",
+    "items": [
+      { "name": "Ley 14.346 — Malos Tratos y Actos de Crueldad hacia los Animales" },
+      { "name": "Ley 27.330 — Prohibición de Carreras de Perros" },
+      { "name": "Ley 22.421 — Conservación de la Fauna" }
+    ]
+  },
+  {
+    "category": "Defensa del Consumidor",
+    "items": [
+      { "name": "Ley 24.240 — Defensa del Consumidor" },
+      { "name": "Ley 26.361 — Reformas Defensa del Consumidor" },
+      { "name": "Ley 25.065 — Tarjetas de Crédito" },
+      { "name": "Ley 24.787 — Publicidad Engañosa" }
+    ]
+  },
+  {
+    "category": "Cultura y Comunicación",
+    "items": [
+      { "name": "Ley 11.723 — Propiedad Intelectual" },
+      { "name": "Ley 26.522 — Servicios de Comunicación Audiovisual" },
+      { "name": "Ley 25.446 — Patrimonio Cultural" },
+      { "name": "Ley 26.899 — Acceso Abierto a Publicaciones Científicas" }
+    ]
+  },
+  {
+    "category": "Turismo",
+    "items": [
+      { "name": "Ley 18.829 — Agencias de Viajes" },
+      { "name": "Ley 25.599 — Turismo Estudiantil" },
+      { "name": "Ley 26.356 — Turismo Accesible" },
+      { "name": "Ley 25.997 — Ley Nacional de Turismo" }
+    ]
+  },
+  {
+    "category": "Transporte",
+    "items": [
+      { "name": "Ley 24.449 — Tránsito y Seguridad Vial" },
+      { "name": "Ley 22.431 — Transporte de Cargas" },
+      { "name": "Ley 12.346 — Ferrocarriles" },
+      { "name": "Ley 21.844 — Aeronavegación Comercial" },
+      { "name": "Ley 20.094 — Ley de la Navegación" }
+    ]
+  }
+  ,
+  {
+    "category": "Derecho Internacional",
+    "items": [
+      { "name": "Convención de Viena sobre Relaciones Diplomáticas" },
+      { "name": "Convención de Viena sobre Derecho de los Tratados" },
+      { "name": "Ley 23.849 — Convención sobre los Derechos del Niño" },
+      { "name": "Ley 24.632 — Convención Interamericana sobre Desaparición Forzada" },
+      { "name": "Ley 25.778 — Jerarquía Constitucional Convención Americana sobre DDHH" }
+    ]
+  },
+  {
+    "category": "Cooperativas y Mutuales",
+    "items": [
+      { "name": "Ley 20.337 — Ley de Cooperativas" },
+      { "name": "Ley 20.321 — Ley de Mutuales" },
+      { "name": "Ley 23.427 — Promoción Cooperativas de Trabajo" },
+      { "name": "Ley 26.776 — Integración Energética Regional Cooperativas" }
+    ]
+  },
+  {
+    "category": "Deportes",
+    "items": [
+      { "name": "Ley 20.655 — Deporte Nacional" },
+      { "name": "Ley 27.202 — Régimen de Deporte Profesional" },
+      { "name": "Ley 27.211 — Prevención de la Violencia en Espectáculos Deportivos" },
+      { "name": "Ley 27.711 — Régimen de Promoción Deportiva" }
+    ]
+  },
+  {
+    "category": "Medio Rural",
+    "items": [
+      { "name": "Ley 13.246 — Arrendamientos y Aparcerías Rurales" },
+      { "name": "Ley 26.509 — Emergencia Agropecuaria" },
+      { "name": "Ley 26.473 — Envases Plásticos Agroquímicos" },
+      { "name": "Ley 26.727 — Régimen de Trabajo Agrario" }
+    ]
+  },
+  {
+    "category": "Protección del Consumidor Financiero",
+    "items": [
+      { "name": "Ley 25.065 — Tarjetas de Crédito" },
+      { "name": "Ley 24.240 — Defensa del Consumidor" },
+      { "name": "Ley 26.361 — Reforma Ley de Defensa del Consumidor" },
+      { "name": "Ley 27.349 — Emprendedores y Financiamiento Colectivo" }
+    ]
+  },
+  {
+    "category": "Seguridad Pública",
+    "items": [
+      { "name": "Ley 24.059 — Seguridad Interior" },
+      { "name": "Ley 26.052 — Lucha contra el Narcotráfico" },
+      { "name": "Ley 25.520 — Inteligencia Nacional" },
+      { "name": "Ley 26.364 — Trata de Personas" },
+      { "name": "Ley 26.734 — Financiación del Terrorismo" }
+    ]
+  },
+  {
+    "category": "Defensa Nacional",
+    "items": [
+      { "name": "Ley 23.554 — Defensa Nacional" },
+      { "name": "Ley 24.948 — Reestructuración de las Fuerzas Armadas" },
+      { "name": "Ley 23.520 — Servicio Militar Voluntario" },
+      { "name": "Ley 25.241 — Delitos Informáticos y Defensa Nacional" }
+    ]
+  },
+  {
+    "category": "Derecho Notarial",
+    "items": [
+      { "name": "Ley 20.244 — Función Notarial" },
+      { "name": "Ley 404 — Régimen Notarial CABA" },
+      { "name": "Ley 902 — Colegio de Escribanos de la Provincia de Buenos Aires" },
+      { "name": "Ley 19.836 — Protocolo Notarial" }
+    ]
+  },
+  {
+    "category": "Derecho Registral",
+    "items": [
+      { "name": "Ley 17.801 — Régimen de la Propiedad Inmueble" },
+      { "name": "Ley 22.172 — Régimen de Automotores" },
+      { "name": "Ley 19.550 — Inscripción de Sociedades" },
+      { "name": "Ley 24.441 — Garantías Mobiliarias" }
+    ]
+  },
+  {
+    "category": "Derecho Marítimo",
+    "items": [
+      { "name": "Ley 20.094 — Ley de la Navegación" },
+      { "name": "Ley 19.170 — Régimen Marítimo de Buques" },
+      { "name": "Ley 21.844 — Aeronavegación Comercial" },
+      { "name": "Ley 24.385 — Transporte Multimodal de Mercaderías" }
+    ]
+  },
+  {
+    "category": "Comunicaciones",
+    "items": [
+      { "name": "Ley 19.798 — Telecomunicaciones" },
+      { "name": "Ley 26.522 — Servicios de Comunicación Audiovisual" },
+      { "name": "Ley 27.078 — Argentina Digital" },
+      { "name": "Ley 25.750 — Papel Prensa" }
+    ]
+  },
+  {
+    "category": "Derechos de Pueblos Originarios",
+    "items": [
+      { "name": "Constitución Nacional Art. 75 inc. 17 — Derechos Indígenas" },
+      { "name": "Ley 23.302 — Política Indígena y Apoyo a Comunidades Aborígenes" },
+      { "name": "Ley 26.160 — Emergencia en Materia de Posesión y Propiedad de Tierras Indígenas" },
+      { "name": "Ley 24.071 — Convenio 169 OIT sobre Pueblos Indígenas y Tribales" }
+    ]
+  }
+  ,
+  {
+    "category": "Protección Animal",
+    "items": [
+      { "name": "Ley 14.346 — Malos Tratos y Actos de Crueldad hacia los Animales" },
+      { "name": "Ley 27.330 — Prohibición de Carreras de Perros" },
+      { "name": "Ley 22.421 — Conservación de la Fauna Silvestre" },
+      { "name": "Ley 27.499 — Ley Micaela (incluyendo capacitación sobre bienestar animal en administración pública)" },
+      { "name": "Ley 25.335 — Protección de Especies en Peligro" }
+    ]
+  },
+  {
+    "category": "Derecho Penal Económico",
+    "items": [
+      { "name": "Ley 24.769 — Régimen Penal Tributario" },
+      { "name": "Ley 19.359 — Régimen Penal Cambiario" },
+      { "name": "Ley 22.415 — Código Aduanero (delitos aduaneros)" },
+      { "name": "Ley 25.246 — Lavado de Activos y Financiamiento del Terrorismo" },
+      { "name": "Ley 27.401 — Responsabilidad Penal de las Personas Jurídicas" }
+    ]
+  },
+  {
+    "category": "Derecho Bancario",
+    "items": [
+      { "name": "Ley 21.526 — Ley de Entidades Financieras" },
+      { "name": "Ley 25.065 — Tarjetas de Crédito" },
+      { "name": "Ley 24.452 — Cheques" },
+      { "name": "Ley 26.831 — Mercado de Capitales" },
+      { "name": "Ley 25.738 — Depósitos Judiciales" }
+    ]
+  },
+  {
+    "category": "Derecho Aeronáutico",
+    "items": [
+      { "name": "Ley 21.844 — Código Aeronáutico" },
+      { "name": "Ley 19.030 — Transporte Aéreo" },
+      { "name": "Ley 17.285 — Código Aduanero Aeronáutico" },
+      { "name": "Ley 24.045 — Seguro Aéreo" }
+    ]
+  },
+  {
+    "category": "Seguridad Alimentaria",
+    "items": [
+      { "name": "Ley 18.284 — Código Alimentario Argentino" },
+      { "name": "Ley 25.630 — Prohibición de Alimentos con Transgénicos sin Rotulado" },
+      { "name": "Ley 27.642 — Etiquetado Frontal de Alimentos" },
+      { "name": "Ley 26.396 — Obesidad" }
+    ]
+  },
+  {
+    "category": "Derechos Humanos Internacional",
+    "items": [
+      { "name": "Convención Americana sobre Derechos Humanos (Pacto de San José de Costa Rica)" },
+      { "name": "Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial" },
+      { "name": "Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW)" },
+      { "name": "Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes" },
+      { "name": "Convenio 169 OIT sobre Pueblos Indígenas y Tribales" }
+    ]
+  },
+  {
+    "category": "Biotecnología y Bioética",
+    "items": [
+      { "name": "Ley 26.994 — Código Civil y Comercial (disposiciones sobre genética y bioética)" },
+      { "name": "Ley 23.798 — VIH/SIDA" },
+      { "name": "Ley 26.529 — Derechos del Paciente" },
+      { "name": "Ley 26.742 — Donación de Órganos y Tejidos" },
+      { "name": "Ley 27.447 — Trasplante de Órganos, Tejidos y Células" }
+    ]
+  },
+  {
+    "category": "Derecho Deportivo (ampliado)",
+    "items": [
+      { "name": "Ley 20.655 — Deporte Nacional" },
+      { "name": "Ley 27.202 — Régimen de Deporte Profesional" },
+      { "name": "Ley 27.211 — Prevención de Violencia en Espectáculos Deportivos" },
+      { "name": "Ley 23.985 — Fondo Nacional del Deporte" },
+      { "name": "Ley 24.192 — Dopaje en el Deporte" }
+    ]
+  },
+  {
+    "category": "Derecho Migratorio",
+    "items": [
+      { "name": "Ley 25.871 — Ley de Migraciones" },
+      { "name": "Ley 24.476 — Régimen de Nacionalidad" },
+      { "name": "Ley 25.246 — Blanqueo Migratorio y Delitos Conexos" },
+      { "name": "Ley 27.264 — Regularización Documental" }
+    ]
+  }
+  ,
+  {
+    "category": "Derecho Sanitario",
+    "items": [
+      { "name": "Ley 26.657 — Salud Mental" },
+      { "name": "Ley 27.130 — Prevención del Suicidio" },
+      { "name": "Ley 27.610 — Interrupción Voluntaria del Embarazo" },
+      { "name": "Ley 27.491 — Vacunación" },
+      { "name": "Ley 26.529 — Derechos del Paciente" },
+      { "name": "Ley 23.798 — VIH/SIDA" }
+    ]
+  },
+  {
+    "category": "Derecho Tributario Provincial",
+    "items": [
+      { "name": "Ley Impositiva Anual Provincia de Buenos Aires" },
+      { "name": "Código Fiscal Provincia de Córdoba" },
+      { "name": "Código Fiscal Provincia de Santa Fe" },
+      { "name": "Código Fiscal Provincia de Tucumán" },
+      { "name": "Código Fiscal Provincia de Mendoza" }
+    ]
+  },
+  {
+    "category": "Propiedad Intelectual (ampliado)",
+    "items": [
+      { "name": "Ley 11.723 — Propiedad Intelectual" },
+      { "name": "Ley 22.362 — Marcas y Designaciones" },
+      { "name": "Ley 24.481 — Patentes de Invención y Modelos de Utilidad" },
+      { "name": "Ley 25.859 — Protección de Variedades Vegetales" },
+      { "name": "Ley 26.994 — Código Civil y Comercial (propiedad intelectual)" }
+    ]
+  },
+  {
+    "category": "Protección al Usuario de Servicios Públicos",
+    "items": [
+      { "name": "Ley 24.240 — Defensa del Consumidor" },
+      { "name": "Ley 24.065 — Energía Eléctrica" },
+      { "name": "Ley 25.561 — Emergencia Pública y Reforma del Régimen Cambiario" },
+      { "name": "Ley 27.637 — Regulación de Prestaciones de Servicios Públicos en Pandemia" },
+      { "name": "Ley 27.223 — Derecho a la Información del Usuario" }
+    ]
+  },
+  {
+    "category": "Derecho Minero",
+    "items": [
+      { "name": "Código de Minería" },
+      { "name": "Ley 24.196 — Inversiones Mineras" },
+      { "name": "Ley 24.585 — Procedimiento Ambiental Minero" },
+      { "name": "Ley 25.161 — Regalías Mineras" },
+      { "name": "Ley 27.111 — Transparencia Minera" }
+    ]
+  },
+  {
+    "category": "Derecho Agrario",
+    "items": [
+      { "name": "Ley 13.246 — Arrendamientos y Aparcerías Rurales" },
+      { "name": "Ley 26.509 — Emergencia Agropecuaria" },
+      { "name": "Ley 26.727 — Régimen de Trabajo Agrario" },
+      { "name": "Ley 24.375 — Convenio sobre Biodiversidad Agraria" },
+      { "name": "Ley 25.675 — Ley General del Ambiente (impacto agrario)" }
+    ]
+  },
+  {
+    "category": "Derecho Ambiental Empresarial",
+    "items": [
+      { "name": "Ley 25.675 — Ley General del Ambiente" },
+      { "name": "Ley 24.051 — Residuos Peligrosos" },
+      { "name": "Ley 26.639 — Glaciares" },
+      { "name": "Ley 26.331 — Presupuestos Mínimos de Bosques Nativos" },
+      { "name": "Ley 27.279 — Gestión de Residuos Sólidos Urbanos" }
+    ]
+  },
+  {
+    "category": "Derecho Cultural",
+    "items": [
+      { "name": "Ley 11.723 — Propiedad Intelectual" },
+      { "name": "Ley 25.446 — Patrimonio Cultural" },
+      { "name": "Ley 24.633 — Régimen del Libro" },
+      { "name": "Ley 26.899 — Acceso Abierto a Publicaciones Científicas" },
+      { "name": "Ley 27.275 — Acceso a la Información Pública" }
+    ]
+  },
+  {
+    "category": "Derecho Penal Internacional",
+    "items": [
+      { "name": "Estatuto de Roma de la Corte Penal Internacional" },
+      { "name": "Convenio de Ginebra sobre Crímenes de Guerra" },
+      { "name": "Convención contra el Genocidio" },
+      { "name": "Convención contra la Corrupción" },
+      { "name": "Convención contra el Tráfico de Personas" }
+    ]
+  },
+  {
+    "category": "Derechos de las Personas con Discapacidad",
+    "items": [
+      { "name": "Ley 22.431 — Sistema de Protección Integral" },
+      { "name": "Ley 24.901 — Prestaciones Básicas en Rehabilitación" },
+      { "name": "Ley 25.504 — Certificado Único de Discapacidad" },
+      { "name": "Ley 26.378 — Convención sobre los Derechos de las Personas con Discapacidad" },
+      { "name": "Ley 27.044 — Inclusión Laboral" }
+    ]
+  }
+  ,
+  {
+    "category": "Derecho Internacional Privado",
+    "items": [
+      { "name": "Ley 19.865 — Derecho Internacional Privado (derogada parcialmente)" },
+      { "name": "Código Civil y Comercial de la Nación — Sección Derecho Internacional Privado" },
+      { "name": "Convención Interamericana sobre Conflicto de Leyes" },
+      { "name": "Convención de La Haya sobre Notificación en el Extranjero" },
+      { "name": "Ley 24.767 — Cooperación Internacional en Materia Civil" }
+    ]
+  },
+  {
+    "category": "Derecho Marítimo (detalle)",
+    "items": [
+      { "name": "Ley 20.094 — Ley de la Navegación" },
+      { "name": "Ley 19.170 — Régimen Marítimo de Buques" },
+      { "name": "Ley 22.415 — Código Aduanero Marítimo" },
+      { "name": "Ley 24.385 — Transporte Multimodal de Mercaderías" },
+      { "name": "Convenio SOLAS — Seguridad de la Vida Humana en el Mar" }
+    ]
+  },
+  {
+    "category": "Derecho Aduanero (detalle)",
+    "items": [
+      { "name": "Ley 22.415 — Código Aduanero" },
+      { "name": "Ley 24.425 — Acuerdo OMC" },
+      { "name": "Ley 25.603 — Contrabando" },
+      { "name": "Ley 23.101 — Zonas Francas" },
+      { "name": "Ley 26.351 — Facilitación del Comercio" }
+    ]
+  },
+  {
+    "category": "Derecho Bancario Internacional",
+    "items": [
+      { "name": "Convenio de Basilea I" },
+      { "name": "Convenio de Basilea II" },
+      { "name": "Convenio de Basilea III" },
+      { "name": "FATCA — Ley de Cumplimiento Fiscal de Cuentas en el Extranjero" },
+      { "name": "Convenio OCDE sobre Intercambio de Información Financiera" }
+    ]
+  },
+  {
+    "category": "Derecho Procesal Penal Internacional",
+    "items": [
+      { "name": "Estatuto de Roma de la Corte Penal Internacional" },
+      { "name": "Convenio Europeo de Derechos Humanos (procedimiento penal)" },
+      { "name": "Convención de Viena sobre Crimen Organizado Transnacional" },
+      { "name": "Convención contra la Tortura (aspectos procesales)" },
+      { "name": "Convenio Interamericano sobre Asistencia Mutua Penal" }
+    ]
+  },
+  {
+    "category": "Derecho Ambiental Provincial",
+    "items": [
+      { "name": "Ley Provincial 5961 — Mendoza — Protección del Ambiente" },
+      { "name": "Ley 11.723 — Buenos Aires — Código Ambiental" },
+      { "name": "Ley 6916 — Córdoba — Protección de Bosques" },
+      { "name": "Ley 10.208 — Santa Fe — Código de Aguas" },
+      { "name": "Ley 5574 — Tucumán — Protección Ambiental" }
+    ]
+  },
+  {
+    "category": "Derecho Cooperativo Avanzado",
+    "items": [
+      { "name": "Ley 20.337 — Ley General de Cooperativas" },
+      { "name": "Ley 23.427 — Promoción de Cooperativas de Trabajo" },
+      { "name": "Ley 26.684 — Cooperativas de Servicios Públicos" },
+      { "name": "Ley 26.776 — Integración Energética Regional Cooperativas" },
+      { "name": "Ley 26.855 — Participación Cooperativa en la Economía Social" }
+    ]
+  },
+  {
+    "category": "Derecho Penal Tributario",
+    "items": [
+      { "name": "Ley 24.769 — Régimen Penal Tributario" },
+      { "name": "Ley 19.359 — Régimen Penal Cambiario" },
+      { "name": "Ley 25.345 — Blanqueo y Régimen Penal Tributario" },
+      { "name": "Ley 26.735 — Ley Antievasión II" },
+      { "name": "Ley 27.430 — Reforma Tributaria y Penal Tributario" }
+    ]
+  },
+  {
+    "category": "Derecho Bancario Digital",
+    "items": [
+      { "name": "Ley 25.065 — Tarjetas de Crédito" },
+      { "name": "Ley 25.326 — Protección de Datos Personales" },
+      { "name": "Ley 26.951 — Firma Digital" },
+      { "name": "Ley 27.442 — Defensa de la Competencia en Plataformas Digitales" },
+      { "name": "Resolución BCRA sobre Homebanking y Seguridad Digital" }
+    ]
+  },
+  {
+    "category": "Blockchain y Criptoactivos",
+    "items": [
+      { "name": "Resolución UIF sobre Criptoactivos" },
+      { "name": "Informe CNV sobre ICOs y Criptoactivos" },
+      { "name": "Ley 26.994 — Código Civil y Comercial (contratos electrónicos)" },
+      { "name": "Recomendaciones FATF-GAFI sobre Criptoactivos" },
+      { "name": "Normativas internacionales sobre Blockchain y Seguridad Digital" }
+    ]
+  }
+  ,
+  {
+    "category": "Derecho Aeroespacial",
+    "items": [
+      { "name": "Ley 17.285 — Régimen Jurídico del Espacio Aéreo" },
+      { "name": "Ley 21.844 — Código Aeronáutico" },
+      { "name": "Convenio de Chicago sobre Aviación Civil Internacional" },
+      { "name": "Convenio sobre Responsabilidad Internacional por Daños Causados por Objetos Espaciales" },
+      { "name": "Ley 26.092 — Creación de la CONAE (Comisión Nacional de Actividades Espaciales)" }
+    ]
+  },
+  {
+    "category": "Derecho Educativo Provincial",
+    "items": [
+      { "name": "Ley 13.688 — Educación Provincial Buenos Aires" },
+      { "name": "Ley 8113 — Régimen Educativo Córdoba" },
+      { "name": "Ley 24.195 — Ley Federal de Educación (norma marco para provincias)" },
+      { "name": "Ley 13612 — Educación Pública Santa Fe" },
+      { "name": "Ley 8560 — Educación Tucumán" }
+    ]
+  },
+  {
+    "category": "Derecho Cultural Indígena",
+    "items": [
+      { "name": "Ley 23.302 — Política Indígena y Apoyo a Comunidades Aborígenes" },
+      { "name": "Ley 26.160 — Emergencia en Materia de Posesión y Propiedad de Tierras Indígenas" },
+      { "name": "Convenio 169 OIT sobre Pueblos Indígenas y Tribales" },
+      { "name": "Ley 24.071 — Ratificación Convenio 169 OIT" },
+      { "name": "Constitución Nacional Art. 75 inc. 17 — Derechos Indígenas" }
+    ]
+  },
+  {
+    "category": "Derecho Penal Ambiental",
+    "items": [
+      { "name": "Ley 24.051 — Residuos Peligrosos (régimen penal)" },
+      { "name": "Ley 22.421 — Conservación de la Fauna (sanciones penales)" },
+      { "name": "Ley 27.279 — Residuos Sólidos Urbanos (infracciones penales)" },
+      { "name": "Ley 25.612 — Gestión Integral de Residuos Industriales" },
+      { "name": "Ley 26.331 — Bosques Nativos (infracciones penales)" }
+    ]
+  },
+  {
+    "category": "Derecho Notarial Digital",
+    "items": [
+      { "name": "Ley 26.994 — Código Civil y Comercial (instrumentos electrónicos)" },
+      { "name": "Ley 25.506 — Firma Digital" },
+      { "name": "Resoluciones de la IGJ sobre Protocolización Electrónica" },
+      { "name": "Normas del Colegio de Escribanos sobre Documentos Digitales" },
+      { "name": "Ley Modelo CNUDMI sobre Firmas Electrónicas" }
+    ]
+  },
+  {
+    "category": "Derecho Procesal Electrónico",
+    "items": [
+      { "name": "Ley 26.685 — Expediente Electrónico" },
+      { "name": "Acordada 31/2011 CSJN — Notificaciones Electrónicas" },
+      { "name": "Acordada 11/2014 CSJN — Firma Digital en Poder Judicial" },
+      { "name": "Ley 27.444 — Simplificación y Desburocratización del Estado (procesos digitales)" },
+      { "name": "Acordadas Provinciales sobre Presentaciones Electrónicas" }
+    ]
+  },
+  {
+    "category": "Inteligencia Artificial y Derecho",
+    "items": [
+      { "name": "Informe CNV sobre Inteligencia Artificial en Mercados Financieros" },
+      { "name": "Informe Agencia de Acceso a la Información Pública sobre IA y Datos Personales" },
+      { "name": "Ley 25.326 — Protección de Datos Personales (aplicable a IA)" },
+      { "name": "Normativas OCDE sobre Ética en IA" },
+      { "name": "Reglamento Europeo de IA (proyecto en análisis)" }
+    ]
+  },
+  {
+    "category": "Derecho Penal Digital",
+    "items": [
+      { "name": "Ley 26.388 — Delitos Informáticos" },
+      { "name": "Ley 27.736 — Grooming y Ciberacoso" },
+      { "name": "Ley 25.326 — Protección de Datos Personales (delitos digitales)" },
+      { "name": "Convenio de Budapest sobre Cibercrimen" },
+      { "name": "Ley 27.441 — Fraudes Electrónicos" }
+    ]
+  }
+  ,
+  {
+    "category": "Derecho de Género (detalle)",
+    "items": [
+      { "name": "Ley 26.485 — Protección Integral a las Mujeres" },
+      { "name": "Ley 27.499 — Ley Micaela de Capacitación en Género" },
+      { "name": "Ley 27.610 — Interrupción Voluntaria del Embarazo" },
+      { "name": "Ley 26.791 — Agravantes por Femicidio" },
+      { "name": "Ley 26.743 — Identidad de Género" }
+    ]
+  },
+  {
+    "category": "Derecho Electoral Provincial",
+    "items": [
+      { "name": "Código Electoral Provincia de Buenos Aires" },
+      { "name": "Código Electoral Provincia de Córdoba" },
+      { "name": "Código Electoral Provincia de Santa Fe" },
+      { "name": "Código Electoral Provincia de Tucumán" },
+      { "name": "Código Electoral Provincia de Mendoza" }
+    ]
+  },
+  {
+    "category": "Derecho de la Energía (detalle)",
+    "items": [
+      { "name": "Ley 17.319 — Hidrocarburos" },
+      { "name": "Ley 24.076 — Gas Natural" },
+      { "name": "Ley 26.190 — Energías Renovables" },
+      { "name": "Ley 27.191 — Régimen de Fomento de Energías Renovables" },
+      { "name": "Ley 27.424 — Generación Distribuida" }
+    ]
+  },
+  {
+    "category": "Derechos Humanos Digitales",
+    "items": [
+      { "name": "Ley 25.326 — Protección de Datos Personales" },
+      { "name": "Reglamento General de Protección de Datos Europeo (GDPR)" },
+      { "name": "Ley 27.275 — Acceso a la Información Pública" },
+      { "name": "Normativas OCDE sobre Privacidad Digital" },
+      { "name": "Resoluciones Agencia de Acceso a la Información Pública" }
+    ]
+  },
+  {
+    "category": "Derecho Migratorio Regional",
+    "items": [
+      { "name": "Acuerdo de Residencia MERCOSUR" },
+      { "name": "Ley 25.871 — Ley de Migraciones" },
+      { "name": "Ley 24.476 — Nacionalidad y Ciudadanía" },
+      { "name": "Convenio Internacional sobre Protección de Trabajadores Migrantes" },
+      { "name": "Acuerdos Bilaterales Argentina-Bolivia sobre Residencia" }
+    ]
+  },
+  {
+    "category": "Cloud Computing y Regulaciones Digitales",
+    "items": [
+      { "name": "Ley 25.326 — Protección de Datos Personales" },
+      { "name": "Resoluciones de la Agencia de Acceso a la Información Pública" },
+      { "name": "Guía BCRA sobre Cloud Computing Bancario" },
+      { "name": "Normas OCDE sobre Cloud Security" },
+      { "name": "Reglamento Europeo de Protección de Datos (Cloud impactado por GDPR)" }
+    ]
+  },
+  {
+    "category": "Derecho Tributario Digital",
+    "items": [
+      { "name": "Ley 27.430 — Reforma Tributaria (Servicios Digitales)" },
+      { "name": "Resolución General AFIP sobre Plataformas Digitales" },
+      { "name": "Convenios Multilaterales sobre E-commerce" },
+      { "name": "Normas OCDE sobre Tributación Digital" },
+      { "name": "Resolución General AFIP sobre Criptoactivos" }
+    ]
+  },
+  {
+    "category": "Derecho Internacional Ambiental",
+    "items": [
+      { "name": "Convenio de Basilea sobre Residuos Peligrosos" },
+      { "name": "Protocolo de Kioto sobre Cambio Climático" },
+      { "name": "Acuerdo de París sobre Cambio Climático" },
+      { "name": "Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes" },
+      { "name": "Convenio sobre Diversidad Biológica" }
+    ]
+  }
+  ,
+  {
+    "category": "Protección del Consumidor Digital",
+    "items": [
+      { "name": "Ley 24.240 — Defensa del Consumidor" },
+      { "name": "Ley 27.442 — Defensa de la Competencia (mercado digital)" },
+      { "name": "Resoluciones de la Secretaría de Comercio sobre E-commerce" },
+      { "name": "Ley 25.326 — Protección de Datos Personales" },
+      { "name": "Normas OCDE sobre E-commerce y Protección al Consumidor" }
+    ]
+  },
+  {
+    "category": "Derechos de Niñez y Adolescencia (detalle)",
+    "items": [
+      { "name": "Ley 26.061 — Protección Integral de Niños, Niñas y Adolescentes" },
+      { "name": "Ley 23.849 — Convención sobre los Derechos del Niño" },
+      { "name": "Ley 26.150 — Educación Sexual Integral" },
+      { "name": "Ley 27.642 — Etiquetado Frontal de Alimentos (protección a niños)" },
+      { "name": "Ley 27.709 — Ley Lucio (prevención de violencia contra la infancia)" }
+    ]
+  },
+  {
+    "category": "Derecho Concursal Internacional",
+    "items": [
+      { "name": "Ley 24.522 — Concursos y Quiebras" },
+      { "name": "Ley Modelo UNCITRAL sobre Insolvencia Transfronteriza" },
+      { "name": "Convenio Europeo sobre Insolvencia" },
+      { "name": "Normas OCDE sobre Procedimientos Concursales" },
+      { "name": "Reglamentos de la UE sobre Insolvencia" }
+    ]
+  },
+  {
+    "category": "Derecho Marítimo y Puertos (detalle)",
+    "items": [
+      { "name": "Ley 20.094 — Ley de la Navegación" },
+      { "name": "Ley 24.385 — Transporte Multimodal de Mercaderías" },
+      { "name": "Convenio SOLAS — Seguridad de la Vida Humana en el Mar" },
+      { "name": "Convenio MARPOL sobre Contaminación Marina" },
+      { "name": "Ley 21.703 — Régimen Portuario Nacional" }
+    ]
+  },
+  {
+    "category": "Transparencia Pública Digital",
+    "items": [
+      { "name": "Ley 27.275 — Acceso a la Información Pública" },
+      { "name": "Resolución 4/2020 — Datos Abiertos de la Administración Pública Nacional" },
+      { "name": "Normas OCDE sobre Gobierno Abierto" },
+      { "name": "Decreto 1172/2003 — Acceso a la Información Pública" },
+      { "name": "Normas provinciales sobre Transparencia Digital" }
+    ]
+  },
+  {
+    "category": "Publicidad y Redes Sociales",
+    "items": [
+      { "name": "Ley 22.802 — Lealtad Comercial" },
+      { "name": "Ley 24.240 — Defensa del Consumidor (publicidad engañosa)" },
+      { "name": "Resolución 915/2017 — Publicidad Digital y Redes Sociales" },
+      { "name": "Ley 26.522 — Servicios de Comunicación Audiovisual" },
+      { "name": "Normas internacionales sobre Influencers y Publicidad Digital" }
+    ]
+  },
+  {
+    "category": "Derecho Electoral Digital",
+    "items": [
+      { "name": "Ley 26.571 — Reforma Política (aspectos digitales)" },
+      { "name": "Ley 26.215 — Financiamiento de Partidos Políticos" },
+      { "name": "Ley 27.504 — Voto Accesible Electrónico" },
+      { "name": "Acordadas de la Cámara Nacional Electoral sobre redes sociales y elecciones" },
+      { "name": "Normas internacionales sobre Ciberseguridad Electoral" }
+    ]
+  }
+    ,
+  {
+    "category": "Derecho Deportivo Internacional",
+    "items": [
+      { "name": "Código Mundial Antidopaje" },
+      { "name": "Estatutos FIFA sobre Transferencias Internacionales" },
+      { "name": "Convenio Europeo sobre Violencia en Espectáculos Deportivos" },
+      { "name": "Normas IOC sobre Juegos Olímpicos y Derecho" },
+      { "name": "Convenio de Macolin sobre Manipulación de Competiciones Deportivas" }
+    ]
+  },
+  {
+    "category": "Derecho Internacional de los Derechos Humanos (detalle)",
+    "items": [
+      { "name": "Pacto Internacional de Derechos Civiles y Políticos" },
+      { "name": "Pacto Internacional de Derechos Económicos, Sociales y Culturales" },
+      { "name": "Convención Americana sobre Derechos Humanos" },
+      { "name": "Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW)" },
+      { "name": "Convención sobre los Derechos del Niño" }
+    ]
+  },
+  {
+    "category": "Derecho Marítimo Internacional",
+    "items": [
+      { "name": "Convenio SOLAS — Seguridad de la Vida Humana en el Mar" },
+      { "name": "Convenio MARPOL — Contaminación Marina" },
+      { "name": "Convenio de Hamburgo — Transporte Marítimo de Mercancías" },
+      { "name": "Convenio UNCLOS — Derecho del Mar" },
+      { "name": "Convenio de Londres sobre Vertidos al Mar" }
+    ]
+  },
+  {
+    "category": "Inteligencia Artificial (detalle)",
+    "items": [
+      { "name": "Reglamento Europeo sobre Inteligencia Artificial (proyecto AI Act)" },
+      { "name": "Recomendación OCDE sobre IA" },
+      { "name": "Informe CNV sobre IA en Mercados Financieros" },
+      { "name": "Ley 25.326 — Protección de Datos Personales (aplicaciones IA)" },
+      { "name": "Informe UNESCO sobre Ética en IA" }
+    ]
+  },
+  {
+    "category": "Derecho Procesal Laboral",
+    "items": [
+      { "name": "Ley 18.345 — Procedimiento Laboral Nacional" },
+      { "name": "Acordadas CSJN sobre Juicio Sumario Laboral" },
+      { "name": "Leyes Procesales Provinciales Laborales" },
+      { "name": "Ley 24.635 — Conciliación Laboral Obligatoria" },
+      { "name": "Ley 27.348 — Riesgos del Trabajo y Procedimiento Laboral" }
+    ]
+  },
+  {
+    "category": "Derecho Sindical (detalle)",
+    "items": [
+      { "name": "Ley 23.551 — Asociaciones Sindicales" },
+      { "name": "Ley 14.250 — Convenciones Colectivas de Trabajo" },
+      { "name": "Ley 14.786 — Procedimiento de Conciliación y Arbitraje" },
+      { "name": "Ley 25.674 — Fondo Solidario de Redistribución" },
+      { "name": "Convenios OIT sobre Libertad Sindical y Negociación Colectiva" }
+    ]
+  }
+]
+
